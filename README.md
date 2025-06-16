@@ -1,7 +1,8 @@
+# Student-Information-Manage-System
 C语言 文件IO 简易学生信息管理系统 
 
 
-![image](https://github.com/user-attachments/assets/79eeeac4-d007-488b-9719-4ac61cdcf4dc)# Student-Information-Manage-System
+![image](https://github.com/user-attachments/assets/79eeeac4-d007-488b-9719-4ac61cdcf4dc)
 
 
 1.添加学生
